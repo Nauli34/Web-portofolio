@@ -20,7 +20,7 @@ export default {
           status: 'a website that I created was for the purpose of introducing myself, the skills that I have and also the projects that I have worked on.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/Nauli34/Web-portofolio',
-          demo: 'null'
+          demo: 'https://nau-portofolio.netlify.app/blog'
         },
         {
           id: 3,
