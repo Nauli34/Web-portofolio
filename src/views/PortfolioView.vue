@@ -8,8 +8,8 @@ export default {
           id: 1,
           name: 'Web class',
           imageUrl: 'portfolio_v2',
-          status: 'My personal web class, I created this website to display information about my class, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
+          status: 'My personal web class, I created this website to display information about my class.',
+          tech: 'Reactjs 3, Tailwind',
           github: 'https://github.com/Nauli34/WEB-KELAS-V1',
           demo: 'https://xpm3.vercel.app/'
         },
@@ -29,7 +29,7 @@ export default {
           status: 'Website quiz untuk bersenang" bersama teman',
           tech: 'Html, Css, Js ',
           github: 'null',
-          demo: 'https://kuis-gilt.vercel.app/'
+          demo: 'https://sage-smakager-139ea1.netlify.app/'
         },
         {
           id: 4,
